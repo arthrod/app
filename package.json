@@ -48,7 +48,7 @@
     "@heroicons/react": "^2.0.14",
     "@million/lint": "^0.0.73",
     "@nivo/bar": "^0.83.0",
-    "@nivo/core": "^0.80.0",
+    "@nivo/core": "^0.99.0",
     "@nivo/line": "^0.80.0",
     "@nivo/pie": "^0.80.0",
     "@nivo/scatterplot": "^0.80.0",
